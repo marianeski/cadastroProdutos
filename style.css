@@ -22,7 +22,7 @@ header{
 }
 
 input, textarea{
-    width: 100;
+    width: 500;
     padding: 10px;
     margin: 5px 0 15px;
     border: 1px solid #cdb7d1;
